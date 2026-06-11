@@ -1,0 +1,28 @@
+# Local runtime environment
+.conda-env/
+cache/
+models/
+outputs/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local/editor files
+.env
+.env.*
+.vscode/
+.idea/
+*.log
+
+# Temporary audio/video artifacts
+*.tmp
+*.part
+*.wav.tmp
+*.flac.tmp
